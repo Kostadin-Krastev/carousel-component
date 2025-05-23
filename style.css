@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: inter, Arial, sans-serif;
+  line-height: 1;
+  color: #343a40;
+}
+
+img {
+  width: 200px;
+}
