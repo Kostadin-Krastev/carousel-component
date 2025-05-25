@@ -68,10 +68,18 @@ img:hover {
   transform: translate(-50%, -50%);
 }
 
+.arrow-button-left:hover {
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
 .arrow-button-right {
   right: 0;
   top: 50%;
   transform: translate(50%, -50%);
+}
+
+.arrow-button-right:hover {
+  transform: translate(50%, -50%) scale(1.1);
 }
 
 .arrow-button-icon {
